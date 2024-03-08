@@ -113,10 +113,3 @@
 		</html>
 	</xsl:template>
 </xsl:stylesheet>
-
-<!--
-Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
-
-
-Served from: localhost @ 2024-03-06 11:57:21 by W3 Total Cache
--->
